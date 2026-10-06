@@ -1,3 +1,16 @@
-# name                          git-url                                              ref
-cl-earcut                       https://github.com/takeiteasy/cl-earcut              trunk
-trivial-high-precision-timer    https://github.com/takeiteasy/trivial-high-precision-timer  trunk
+# name  git-url  ref
+cl-procgen                     https://github.com/takeiteasy/cl-procgen                     trunk
+cl-constrained-delaunay        https://github.com/takeiteasy/cl-constrained-delaunay        trunk
+common-shapes                  https://github.com/takeiteasy/common-shapes                  trunk
+HarfArasta                     https://github.com/takeiteasy/HarfArasta                     trunk
+cl-earcut                      https://github.com/takeiteasy/cl-earcut                      trunk
+cl-transitions                 https://github.com/takeiteasy/cl-transitions                 trunk
+cl-dear-imgui                  https://github.com/takeiteasy/cl-dear-imgui                  trunk
+cl-nuklear                     https://github.com/takeiteasy/cl-nuklear                     trunk
+cl-webgpu                      https://github.com/takeiteasy/cl-webgpu                      trunk
+cl-wuffs                       https://github.com/takeiteasy/cl-wuffs                       trunk
+trivial-high-precision-timer   https://github.com/takeiteasy/trivial-high-precision-timer   trunk
+lasm                           https://github.com/takeiteasy/lasm                           trunk
+miao                           https://github.com/takeiteasy/miao                           trunk
+meow                           https://github.com/takeiteasy/meow                           trunk
+trivial-simd                   https://github.com/takeiteasy/trivial-simd                   trunk
