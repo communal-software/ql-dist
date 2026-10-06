@@ -1,2 +1,3 @@
-# name       git-url                              ref
-# cl-example https://github.com/me/cl-example     tags
+# name                          git-url                                              ref
+cl-earcut                       https://github.com/takeiteasy/cl-earcut              trunk
+trivial-high-precision-timer    https://github.com/takeiteasy/trivial-high-precision-timer  trunk
