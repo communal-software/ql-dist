@@ -34,6 +34,7 @@ Only git tags are released; commits are not.
 | [miao](https://github.com/takeiteasy/miao) | Agent core built on meow, for building agent harnesses | [miao](https://github.com/takeiteasy/ql-dist/releases?q=miao) |
 | [meow](https://github.com/takeiteasy/meow) | Plugin and service core: mount everything, order whenever | [meow](https://github.com/takeiteasy/ql-dist/releases?q=meow) |
 | [trivial-simd](https://github.com/takeiteasy/trivial-simd) | Bulk SIMD arithmetic and BLAS for float and integer vectors | [trivial-simd](https://github.com/takeiteasy/ql-dist/releases?q=trivial-simd) |
+| [trivial-notify](https://github.com/takeiteasy/trivial-notify) | Cross-platform file and directory change notifications | [trivial-notify](https://github.com/takeiteasy/ql-dist/releases?q=trivial-notify) |
 
 [^1]: ql-https needs `curl`. Set `ql-https:*quietly-use-https*` to `t` to skip its retry prompt. Its installer replaces the Quicklisp setup in your init file; follow its README.
 [^2]: The dist archive has no git submodules, so cl-dear-imgui needs a recursive clone.

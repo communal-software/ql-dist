@@ -14,3 +14,4 @@ lasm                           https://github.com/takeiteasy/lasm               
 miao                           https://github.com/takeiteasy/miao                           tags
 meow                           https://github.com/takeiteasy/meow                           tags
 trivial-simd                   https://github.com/takeiteasy/trivial-simd                   tags
+trivial-notify                https://github.com/takeiteasy/trivial-notify                tags
