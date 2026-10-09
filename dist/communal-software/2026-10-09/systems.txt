@@ -1,0 +1,62 @@
+# project system-file system-name dependencies
+cl-procgen cl-procgen cl-procgen
+cl-procgen cl-procgen cl-procgen/test cl-procgen fiveam
+cl-procgen cl-procgen cl-procgen/mesh cl-procgen cl-meshgen
+cl-procgen cl-procgen cl-procgen/mesh/test cl-procgen/mesh fiveam
+cl-constrained-delaunay cl-constrained-delaunay cl-constrained-delaunay 3d-vectors
+cl-meshgen cl-meshgen cl-meshgen
+cl-meshgen cl-meshgen cl-meshgen/test cl-meshgen fiveam
+HarfArasta harfarasta harfarasta/harfbuzz cffi
+HarfArasta harfarasta harfarasta/woff2 cffi
+HarfArasta harfarasta harfarasta harfarasta/harfbuzz harfarasta/woff2 font-discovery cl-earcut cl-constrained-delaunay
+HarfArasta harfarasta harfarasta/fontstash harfarasta zpng
+HarfArasta harfarasta harfarasta/export harfarasta zpng
+HarfArasta harfarasta harfarasta/mesh harfarasta cl-meshgen
+HarfArasta harfarasta harfarasta/tests harfarasta/export harfarasta/fontstash harfarasta/mesh
+cl-earcut cl-earcut cl-earcut
+cl-transitions cl-transitions cl-transitions bordeaux-threads
+cl-transitions cl-transitions cl-transitions/graphviz cl-transitions cl-dot
+cl-transitions cl-transitions cl-transitions/tests cl-transitions cl-transitions/graphviz fiveam
+cl-dear-imgui cl-dear-imgui cl-dear-imgui cffi
+cl-dear-imgui cl-dear-imgui cl-dear-imgui/generator com.inuoe.jzon
+cl-nuklear cl-nuklear cl-nuklear cffi
+cl-webgpu cl-webgpu cl-webgpu cffi
+cl-webgpu cl-webgpu cl-webgpu/wrapper cl-webgpu
+cl-webgpu cl-webgpu cl-webgpu/glfw cl-webgpu cl-glfw3
+cl-webgpu cl-webgpu cl-webgpu/sdl3 cl-webgpu sdl3
+cl-webgpu cl-webgpu cl-webgpu/headless cl-webgpu/wrapper zpng
+cl-webgpu cl-webgpu cl-webgpu/shader cffi bordeaux-threads alexandria
+cl-webgpu cl-webgpu cl-webgpu/shader/tests cl-webgpu/shader fiveam
+cl-webgpu cl-webgpu cl-webgpu/wrapper/tests cl-webgpu/wrapper cl-webgpu/headless fiveam
+cl-webgpu cl-webgpu cl-webgpu/nuklear cl-webgpu cl-webgpu/wrapper cl-nuklear
+cl-webgpu cl-webgpu cl-webgpu/nuklear-input-common cl-webgpu/nuklear
+cl-webgpu cl-webgpu cl-webgpu/nuklear-glfw-glue cl-webgpu/nuklear-input-common cl-webgpu/glfw
+cl-webgpu cl-webgpu cl-webgpu/nuklear-sdl3-glue cl-webgpu/nuklear-input-common cl-webgpu/sdl3
+cl-webgpu cl-webgpu cl-webgpu/imgui cl-webgpu cl-webgpu/wrapper cl-dear-imgui
+cl-webgpu cl-webgpu cl-webgpu/imgui-input-common cl-webgpu/imgui
+cl-webgpu cl-webgpu cl-webgpu/imgui-glfw-glue cl-webgpu/imgui-input-common cl-webgpu/glfw
+cl-webgpu cl-webgpu cl-webgpu/imgui-sdl3-glue cl-webgpu/imgui-input-common cl-webgpu/sdl3
+cl-webgpu cl-webgpu cl-webgpu/codegen cl-ppcre uiop
+cl-wuffs cl-wuffs cl-wuffs/bindings cffi
+cl-wuffs cl-wuffs cl-wuffs cl-wuffs/bindings
+cl-wuffs cl-wuffs cl-wuffs/test cl-wuffs fiveam
+trivial-high-precision-timer trivial-high-precision-timer trivial-high-precision-timer cffi
+trivial-high-precision-timer trivial-high-precision-timer trivial-high-precision-timer/tests trivial-high-precision-timer
+miao miao miao/launcher uiop
+miao miao miao meow meow/logger alexandria com.inuoe.jzon drakma flexi-streams usocket bordeaux-threads uiop puri chunga cl+ssl cl-base64 sb-md5 miao/launcher
+miao miao miao/cli miao miao/ui alexandria bordeaux-threads uiop
+miao miao miao/ui miao alexandria bordeaux-threads
+miao miao miao/tests miao miao/cli miao/ui fiveam uiop usocket
+meow meow meow bordeaux-threads alexandria closer-mop trivial-high-precision-timer
+meow meow meow/logger meow
+meow meow meow/hmr meow trivial-notify
+meow meow meow/tests meow fiveam uiop
+meow meow meow/logger/tests meow/logger meow/tests
+meow meow meow/hmr/tests meow/hmr meow/tests uiop
+trivial-simd trivial-simd trivial-simd cffi trivial-garbage
+trivial-simd trivial-simd trivial-simd/tests trivial-simd/blas/convenience fiveam bordeaux-threads
+trivial-simd trivial-simd trivial-simd/blas trivial-simd
+trivial-simd trivial-simd trivial-simd/blas/convenience trivial-simd/blas
+trivial-watch trivial-watch trivial-watch cffi uiop bordeaux-threads trivial-watch/kqueue
+trivial-watch trivial-watch trivial-watch/kqueue cffi
+trivial-watch trivial-watch trivial-watch/tests trivial-watch fiveam bordeaux-threads uiop

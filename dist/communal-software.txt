@@ -1,0 +1,7 @@
+name: communal-software
+version: 2026-10-09
+system-index-url: https://communal-software.github.io/ql-dist/dist/communal-software/2026-10-09/systems.txt
+release-index-url: https://communal-software.github.io/ql-dist/dist/communal-software/2026-10-09/releases.txt
+archive-base-url: https://communal-software.github.io/ql-dist/
+canonical-distinfo-url: https://communal-software.github.io/ql-dist/dist/communal-software/2026-10-09/distinfo.txt
+distinfo-subscription-url: https://communal-software.github.io/ql-dist/dist/communal-software.txt
