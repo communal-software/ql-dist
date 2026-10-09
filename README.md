@@ -21,7 +21,7 @@ Only git tags are released; commits are not.
 |---|---|---|
 | [cl-procgen](https://github.com/takeiteasy/cl-procgen) | Procedural generation: noise, fBm, cellular automata, Poisson disc sampling | [cl-procgen](https://github.com/takeiteasy/ql-dist/releases?q=cl-procgen) |
 | [cl-constrained-delaunay](https://github.com/takeiteasy/cl-constrained-delaunay) | Constrained Delaunay triangulation using a quad-edge data structure | [cl-constrained-delaunay](https://github.com/takeiteasy/ql-dist/releases?q=cl-constrained-delaunay) |
-| [common-shapes](https://github.com/takeiteasy/common-shapes) | Triangle meshes for 2D and 3D shapes | [common-shapes](https://github.com/takeiteasy/ql-dist/releases?q=common-shapes) |
+| [cl-meshgen](https://github.com/takeiteasy/cl-meshgen) | Triangle meshes for 2D and 3D shapes | [cl-meshgen](https://github.com/takeiteasy/ql-dist/releases?q=cl-meshgen) |
 | [HarfArasta](https://github.com/takeiteasy/HarfArasta) | Text shaping and rendering (2D and 3D) via HarfBuzz | [HarfArasta](https://github.com/takeiteasy/ql-dist/releases?q=HarfArasta) |
 | [cl-earcut](https://github.com/takeiteasy/cl-earcut) | Ear-clipping polygon triangulation with hole bridging and z-order hashing | [cl-earcut](https://github.com/takeiteasy/ql-dist/releases?q=cl-earcut) |
 | [cl-transitions](https://github.com/takeiteasy/cl-transitions) | Finite state machines, a port of pytransitions | [cl-transitions](https://github.com/takeiteasy/ql-dist/releases?q=cl-transitions) |

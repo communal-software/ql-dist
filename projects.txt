@@ -1,7 +1,7 @@
 # name  git-url  ref
 cl-procgen                     https://github.com/takeiteasy/cl-procgen                     tags
 cl-constrained-delaunay        https://github.com/takeiteasy/cl-constrained-delaunay        tags
-common-shapes                  https://github.com/takeiteasy/common-shapes                  tags
+cl-meshgen                     https://github.com/takeiteasy/cl-meshgen                     tags
 HarfArasta                     https://github.com/takeiteasy/HarfArasta                     tags
 cl-earcut                      https://github.com/takeiteasy/cl-earcut                      tags
 cl-transitions                 https://github.com/takeiteasy/cl-transitions                 tags
