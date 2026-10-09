@@ -1,7 +1,0 @@
-name: takeiteasy
-version: 2026-10-06-2
-system-index-url: https://takeiteasy.github.io/ql-dist/dist/takeiteasy/2026-10-06-2/systems.txt
-release-index-url: https://takeiteasy.github.io/ql-dist/dist/takeiteasy/2026-10-06-2/releases.txt
-archive-base-url: https://takeiteasy.github.io/ql-dist/
-canonical-distinfo-url: https://takeiteasy.github.io/ql-dist/dist/takeiteasy/2026-10-06-2/distinfo.txt
-distinfo-subscription-url: https://takeiteasy.github.io/ql-dist/dist/takeiteasy.txt
