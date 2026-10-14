@@ -10,7 +10,8 @@ cl-nuklear                     https://github.com/communal-software/cl-nuklear  
 cl-webgpu                      https://github.com/communal-software/cl-webgpu                      tags
 cl-wuffs                       https://github.com/communal-software/cl-wuffs                       tags
 trivial-high-precision-timer   https://github.com/communal-software/trivial-high-precision-timer   tags
-miao                           https://github.com/communal-software/miao                           tags
-meow                           https://github.com/communal-software/meow                           tags
 trivial-simd                   https://github.com/communal-software/trivial-simd                   tags
 trivial-watch                  https://github.com/communal-software/trivial-watch                  tags
+cl-inference                   https://github.com/communal-software/cl-inference                   tags
+cl-tensor                      https://github.com/communal-software/cl-tensor                      tags
+cl-mlx                         https://github.com/communal-software/cl-mlx                         tags
