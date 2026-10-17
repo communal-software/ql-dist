@@ -20,5 +20,6 @@ Only public repositories with git tags are released; commits are not.
 | [cl-inference](https://github.com/communal-software/cl-inference) | Hosted and local LLM inference, including Apple Silicon MLX |
 | [cl-tensor](https://github.com/communal-software/cl-tensor) | NumPy-like tensors backed by trivial-simd |
 | [cl-mlx](https://github.com/communal-software/cl-mlx) | Lazy MLX array bindings for Common Lisp |
+| [cl-onnx](https://github.com/communal-software/cl-onnx) | ONNX Runtime CPU bindings; build the native bridge before loading |
 
 [^submodules]: The dist archive has no git submodules, so cl-dear-imgui needs a recursive clone.

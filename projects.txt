@@ -15,3 +15,4 @@ trivial-watch                  https://github.com/communal-software/trivial-watc
 cl-inference                   https://github.com/communal-software/cl-inference                   tags
 cl-tensor                      https://github.com/communal-software/cl-tensor                      tags
 cl-mlx                         https://github.com/communal-software/cl-mlx                         tags
+cl-onnx                        https://github.com/communal-software/cl-onnx                        tags
